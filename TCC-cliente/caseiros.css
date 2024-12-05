@@ -1,0 +1,7 @@
+mobile-menu{
+    width: 32px;
+    height: 2px;
+    background: #fff;
+    margin: 8px;
+    transition: 0.3s;
+}

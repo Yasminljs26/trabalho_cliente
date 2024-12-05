@@ -1,0 +1,24 @@
+.box1{
+	height: 100px;
+	width:  100px;
+	background: pink;
+	margin:0 auto;
+	padding: 20px 20px 20px 20px; 
+	display: flex;
+}
+ .box2{	
+    height: 200px;
+	width:  200px;
+	background: red;
+	margin: auto;
+	padding: 20px 20px 20px 20px; 
+    display: flex;
+}
+ .box3{
+    height: 300px;
+	width:  300px;
+	background: black;
+	margin:auto;
+	padding: 20px 20px 20px 20px; 
+    display: flex;
+}
